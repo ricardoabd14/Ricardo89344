@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.EnergiaVerdeApp" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryContainer">#A5D6A7</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#8BC34A</item>
+        <item name="colorSecondaryContainer">#DCEDC8</item>
+        <item name="colorOnSecondary">#000000</item>
+    </style>
+</resources>
